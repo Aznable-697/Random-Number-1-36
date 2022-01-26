@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.exe
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.deps.json
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.runtimeconfig.json
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.dll
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\ref\RandomHits.dll
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\bin\Debug\net5.0\RandomHits.pdb
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.dll
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\ref\RandomHits.dll
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.pdb
+C:\Users\User\Desktop\Visual_Studio_Sample_Projects\RandomHits\RandomHits\obj\Debug\net5.0\RandomHits.genruntimeconfig.cache
